@@ -1,0 +1,164 @@
+html {
+    scroll-behavior: smooth;
+}
+   
+title {
+    color: palegoldenrod;
+}
+
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.top {
+    background-color: white;
+    width: 100%;
+    height: 700px;
+}
+.middle {
+    width: 100%;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-color: rgb(50, 177, 228);
+}
+.bottom {
+    width: 100%;
+    
+    padding: 50px 0 50px 0;
+    background-color: teal;
+}
+
+.uppercloud {
+    position: absolute;
+    right: 270px;
+    padding: 15px 0 0;
+    width: 15%;
+}
+
+h1 {
+    font-family: 'Rock Salt', cursive;
+    font-size: 3rem;
+    padding: 120px 0 0;
+    margin: 0px 10px 10px 10px;
+    color: #66BFBF;
+}
+.whatiam {
+    font-size: 2rem;
+    color: #66BFBF;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.lowercloud1 {
+    position: absolute;
+    left: 200px;
+    width: 20%;
+}
+
+.mountain {
+    position: relative;
+    bottom: 160px;
+}
+.man {
+    position: absolute;
+    right:200px;
+    bottom: 5px;
+
+}
+
+.human {
+    color: midnightblue;
+}
+
+.sidebar1 {
+    background-color: plum;
+    position: fixed;
+    width: 75px;
+    height: 100px;
+    top: 5px;
+    left: 5px;
+}
+.sidebar2 {
+    background-color: lightcoral;
+    position: fixed;
+    width: 75px;
+    height: 100px;
+    top: 105px;
+    left: 5px;
+}
+.sidebar3 {
+    background-color: lightgreen;
+    position: fixed;
+    width: 75px;
+    height: 100px;
+    top: 205px;
+    left: 5px;
+}
+.cursor:hover {
+    cursor: pointer;
+}
+
+
+.About {
+    margin: 0 auto ;
+    width: 70%;
+}
+.defme {
+    padding: 10px 0 10px;
+}
+.Whatilike {
+    margin: 0 auto ;
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+}
+.myimg{
+   padding-top: 0px;
+}
+h2 {
+    margin: 0;
+    padding: 50px 0 0;
+    color: whitesmoke;
+    font-size: 2.5rem;
+    font-family: 'Satisfy', cursive;
+}
+p {
+    margin: 0;
+    padding-top: 5px;
+    color: whitesmoke;
+    font-size: 1.4rem;
+    line-height: 1.5;
+    
+}
+.guitar {
+    float: left;
+    padding: 20px 60px 10px 0;
+    width:20%;
+
+}
+.nihon {
+    width: 45%;
+    float: right;
+    padding: 150px 0 60px 30px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.social {
+    font-size: 1.5rem;
+    text-decoration: none;
+    color: turquoise;
+    margin: 50px;
+}
+
+hr {
+    border-style: dotted none none none;
+    height: 0px;
+    width: 10%;
+    margin: 25px auto 0;
+    border-width: 10px;
+    border-color: rgb(18, 226, 18);
+}
