@@ -64,7 +64,7 @@ h1 {
 .man {
     position: absolute;
     right:200px;
-    bottom: 5px;
+    bottom: -5px;
 
 }
 
